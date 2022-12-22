@@ -1,0 +1,29 @@
+.bodyy {
+    background-color: hsl(212, 45%, 89%);
+    font-family: "Outfit";
+}
+
+.divv {
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    background-color: white;
+    border-radius: 8%;
+    height: 980px;
+    width: 650px; 
+}
+
+.imgg {
+    padding-top: 30px;
+    padding-bottom: 15px ;
+    border-radius: 8%;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+p {
+    font-size: 30px;
+    color: hsl(220, 15%, 55%);
+}
